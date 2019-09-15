@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/home/index'
-import Mine from '@/mine/index'
+import Mine from '@/mine/index';
 Vue.use(Router);
 export default new Router({
     routes:[
