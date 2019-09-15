@@ -8,8 +8,8 @@ export default new Router({
         {
             path: '/',
             name: 'home',
-            x
-            component: Home
+            component: Home,
+            d
         },
         {
             path: '/mine',
