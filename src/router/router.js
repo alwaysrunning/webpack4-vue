@@ -4,17 +4,16 @@ import Home from '@/home/index'
 import Mine from '@/mine/index'
 Vue.use(Router);
 export default new Router({
-    routes: [
+    routes:[
         {
-            path: '/',
-            name: 'home',
-            component: Home,
-            d
+            path:'/',
+            name:'home',
+            component:Home
         },
         {
-            path: '/mine',
-            name: 'mine',
-            component: Mine
+            path:'/mine',
+            name:'mine',
+            component:Mine
         }
     ]
 })
