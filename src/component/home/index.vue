@@ -16,7 +16,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style>
 .home{
   color: blue;
   h2{
