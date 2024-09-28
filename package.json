@@ -1,7 +1,11 @@
 {
-  "name": "test",
-  "version": "1.0.0",
-  "description": "A project named test",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "author": {
+    "name": "andy",
+    "email": "178224406@qq.com"
+  },
+  "description": "{{projectDescription}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
